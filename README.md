@@ -80,7 +80,6 @@ The dataset contained 1.5M+ user records with 58 features including:
 * KPI cards for engagement metrics.
 * User activity tracking visuals.
 * Country-wise engagement comparison.
-* Reels usage analysis.
 * Followers and engagement relationship charts.
 * Subscription insights visualization.
 * User growth trend analysis.
