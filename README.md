@@ -122,6 +122,9 @@ Instagram-Usage-Lifestyle-Analysis/
 ```
 
 ---
+# Snapshot of Dashboard: 
+Dashboard : https://github.com/Shweta-Kamilkar/Instagram-Usage-Lifestyle/blob/main/InstaLife%20Analytics.png
+
 
 # How to Run the Project
 
