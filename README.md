@@ -1,11 +1,8 @@
 # Instagram Usage Lifestyle Analysis 
 
-📌 Project Title:
+Project Title: Instagram User Engagement & Lifestyle Impact Analysis
 
-Instagram User Engagement & Lifestyle Impact Analysis
-
-🔎 Problem Statement:
-
+Problem Statement:
 With the rapid growth of social media usage, understanding what drives user engagement is critical for platform optimization and targeted marketing.
 
 The objective of this project was to:
